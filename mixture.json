@@ -1,6 +1,10 @@
 {
   "debug": false,
   "domain": null,
+  "gitHubPages": {
+    "guid": "B298B5F6-DD15-4519-894F-C0BFBA57E240",
+    "repoUrl": "https://github.com/RDARegistry/mix.rdaregistry.info.git"
+  },
   "lintScripts": false,
   "modelSource": null,
   "preprocessorLocations": "public",
@@ -16,5 +20,6 @@
   "templateDefaultPage": "index",
   "templateDirectory": "templates",
   "type": "mixture",
-  "useCompass": false
+  "useCompass": false,
+  "sitemap": true
 }

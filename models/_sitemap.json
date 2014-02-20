@@ -1,0 +1,14 @@
+[
+  {
+    "directory": false,
+    "key": "index",
+    "name": "Index",
+    "url": "/index"
+  },
+  {
+    "directory": false,
+    "key": "model",
+    "name": "Model",
+    "url": "/model"
+  }
+]

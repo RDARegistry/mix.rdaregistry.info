@@ -4,7 +4,7 @@
 
 /* TEAM */
   Designer: Jonathan McArdle-Phipps
-  Site: 
+  Site:
   Twitter:  @jonphipps
   Location: Ottawa, Ontario, Canada
 
